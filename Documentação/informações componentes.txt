@@ -1,0 +1,18 @@
+Arduino nano:
+7 analog 
+14 digital
+
+nRF24 (RC):
+1 voltage (3.3)
+1 gnd
+5 signal ( 1 clock, 2 serial, 2 state )
+
+hc05 (Bluetooth master/slave):
+1 key (enable/disable)
+1 voltage (5)
+3 signal ( 2 serial, 1 state )
+
+hc06 (Bluetooth slave):
+1 key (enable/disable)
+1 voltage (5)
+3 signal ( 2 serial, 1 state )
