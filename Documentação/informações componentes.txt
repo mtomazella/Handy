@@ -1,18 +1,30 @@
-Arduino nano:
+Placas baseadas no ATmega328P:
 7 analog 
 14 digital
+Placas:
+Uno;
+Nano;
+Pro Mini 5v;
+power: uso: 5v, in: 7-12V, cons: 19mA
+5v * 19mA = 95mW
 
 nRF24 (RC):
 1 voltage (3.3)
 1 gnd
 5 signal ( 1 clock, 2 serial, 2 state )
+power: uso: 1.9-3.3v, in: 1.9-3.6v, cons: 12mA
+3.3v * 12mA = 39.6mW transferencia 
 
 hc05 (Bluetooth master/slave):
 1 key (enable/disable)
 1 voltage (5)
-3 signal ( 2 serial, 1 state )
+3 signal (3.3v) ( 2 serial, 1 state )
 
 hc06 (Bluetooth slave):
 1 key (enable/disable)
 1 voltage (5)
-3 signal ( 2 serial, 1 state )
+3 signal (3.3v) ( 2 serial, 1 state )
+power: uso: 5v power 3.3v serial, in: 3.6-6v, cons: 0.5mA standBy 8.5mA active
+5v * 8.5mA = 42.5mW transferencia
+
+total: 177.1mW
