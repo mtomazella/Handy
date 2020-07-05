@@ -28,3 +28,7 @@ power: uso: 5v power 3.3v serial, in: 3.6-6v, cons: 0.5mA standBy 8.5mA active
 5v * 8.5mA = 42.5mW transferencia
 
 total: 177.1mW
+
+Buck Mini 360:
+84 - 90% eficiência
+Só vai ser usado para mandar carga para a bateria
