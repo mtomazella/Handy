@@ -5,5 +5,3 @@ Existe um repositório no GitHub com mais arquivos sobre o projeto.
 https://github.com/MatheusTomazella/Handy
 
 Uma das partes do projeto Web está sendo construída para testes e está disponível em https://github.com/MatheusTomazella/ChatPrototype. O front-end Web está sendo desenvolvido durante as aulas de DAW, estando disponível em https://github.com/MatheusTomazella/Projectstrap.
-
-Tenho certeza de que tem muito à fazer, mas gostaria de pedir que, caso queira, olhe as outras partes do projeto e aponte mudanças que devem ser feitas.
