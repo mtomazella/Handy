@@ -2,6 +2,7 @@
 
 <p align="center"> Muitas vezes prótese são muito caras, levando pessoas com membros amputados a não terem condições de pagar por uma. O objetivo do projeto é criar uma solução barata para o cliente, a fim de que possa melhorar sua qualidade de vida até conseguir uma prótese mais tecnológica. </p>
  
+### [Documentação](https://github.com/MatheusTomazella/Handy/blob/master/Documentação/Documentação.pdf)
 ### [Repositório API](https://github.com/matheustomazella/pinus)  
 ### [Repositório Web](https://github.com/matheustomazella/)
 ### [Repositório Mobile](https://github.com/matheustomazella/handy-mobile)
